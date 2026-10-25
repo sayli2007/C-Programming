@@ -1,7 +1,7 @@
 # C Programming
 
-This repository contains my C programming practice programs, problem-solving programs, management systems, and mini-projects developed while learning C.
-
+# C Programming
+This repository contains my C programming practice programs, problem-solving programs, management systems, and mini-projects developed during my 1st year of Computer Engineering.
 ## Repository Structure
 
 ### Management Systems
